@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="cucu">
+<test name="t1">
+<features>
+<feature name="D:\\Durga_proj\\Cucumber_Proj\\src\\main\\java\\FeatureFiles\\login.feature"/>
+</features>
+</test>
+</suite>
